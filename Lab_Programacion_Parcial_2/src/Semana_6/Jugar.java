@@ -88,6 +88,8 @@ public class Jugar extends javax.swing.JFrame {
             }
         });
 
+        lblMensaje.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
+
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
